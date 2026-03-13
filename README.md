@@ -1,5 +1,6 @@
 # Real-Time Fleet Tracking System
 **Real-time Fleet Telemetry System using Apache Kafka**
+
 A robust, high-throughput data streaming pipeline designed to monitor delivery vehicle locations and telemetry in real-time. The system leverages Apache Kafka to handle massive data ingestion with geographic-based partitioning for seamless scaling.
 
 ## Key Features
